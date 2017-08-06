@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/res/merged/debug/drawable-mdpi/thumb.png",
+        "source": "/Users/Saad/Downloads/android_simple_eq/app/src/main/res/drawable-mdpi/thumb.png"
+    },
+    {
+        "merged": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/Users/Saad/Downloads/android_simple_eq/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/md.tanvirsaad/SC-module-Android-Saad/android_simple_eq/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/Users/md.tanvirsaad/SC-module-Android-Saad/android_simple_eq/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/md.tanvirsaad/SC-module-Android-Saad/android_simple_eq/app/build/intermediates/res/merged/debug/drawable-mdpi/thumb.png",
+        "source": "/Users/md.tanvirsaad/SC-module-Android-Saad/android_simple_eq/app/src/main/res/drawable-mdpi/thumb.png"
+    }
+]

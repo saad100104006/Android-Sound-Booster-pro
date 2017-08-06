@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:3:7-49
+		INJECTED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:5:7-32
+		INJECTED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:4:7-30
+		INJECTED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:6:22-63
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:10:22-76
+uses-feature#android.hardware.location
+ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:11:5-87
+	android:required
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:11:60-84
+	android:name
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:11:19-59
+uses-feature#android.hardware.location.network
+ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:12:5-95
+	android:required
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:12:68-92
+	android:name
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:12:19-67
+uses-permission#android.permission.ACCESS_NOTIFICATION_POLICY
+ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:13:5-85
+	android:name
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:13:22-82
+application
+ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:16:5-33:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:18:9-43
+	android:theme
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:20:9-52
+activity#com.kevinboone.android_simple_eq.MainActivity
+ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:21:9-27:20
+	android:label
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:22:19-51
+	android:name
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:21:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:25:27-74
+service#com.kevinboone.android_simple_eq.VolumeBoosterService
+ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:28:9-32:19
+	android:enabled
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:28:87-109
+	android:exported
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:28:110-134
+	android:name
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:28:18-86
+intent-filter#com.kevinboone.android_simple_eq.VolumeBoosterService.SERVICE
+ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:29:13-31:29
+action#com.kevinboone.android_simple_eq.VolumeBoosterService.SERVICE
+ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:30:17-104
+	android:name
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:30:25-101
+uses-sdk
+INJECTED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml

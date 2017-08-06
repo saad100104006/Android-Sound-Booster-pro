@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/md.tanvirsaad/SC-module-Android-Saad/android_simple_eq/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/md.tanvirsaad/SC-module-Android-Saad/android_simple_eq/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/Saad/Downloads/android_simple_eq/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/Saad/Downloads/android_simple_eq/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/md.tanvirsaad/SC-module-Android-Saad/android_simple_eq/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/md.tanvirsaad/SC-module-Android-Saad/android_simple_eq/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

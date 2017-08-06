@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Saad/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_a8dabbee7cfed7607fe0ce9b9045c34ab2df545a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_30e23b03803b508d24ca2854ea7aa78c795004e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_211ca05b6a48722cc311b8acbbbe61cd81884e40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_7c4c300cf878f549a454f427865f2d8edb5ab190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_e716cab2cf0c2884589f222d2056d7329c992164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_35888ce9a88ac8b1420ae71e5bb80d06db2cbd52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_34f64cd9151d7157d9a2da003849005b91430dd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Saad/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_34d5d802c7bf3f68e7297a3be926e9a88ec43045.jar" />
+    </item>
+
+</items>

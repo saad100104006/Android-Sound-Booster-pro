@@ -1,0 +1,4 @@
+#Sun Aug 06 11:29:17 BDT 2017
+base.0=/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

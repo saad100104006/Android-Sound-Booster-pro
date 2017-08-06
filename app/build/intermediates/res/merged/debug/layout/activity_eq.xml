@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    >
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    >
+
+<CheckBox android:id="@+id/enabled"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/enabled"
+    />
+
+<View 
+    android:layout_width="0dp"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    />
+
+    <Button
+        android:id="@+id/music"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Music"
+        />
+
+
+<Button android:id="@+id/flat"
+     android:layout_height="wrap_content"
+     android:layout_width="wrap_content"
+     android:text="@string/flat"
+     />
+
+</LinearLayout> 
+
+<TextView  
+    android:id="@+id/bass_boost_label"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/bass_boost"
+    />
+
+    <SeekBar
+        android:id="@+id/bass_boost"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:max="1000"
+            android:progress="0"
+            android:progressDrawable="@drawable/progress_drawable"
+        android:secondaryProgress="0"
+            android:thumb="@drawable/thumb" />
+
+    <TextView
+    android:id="@+id/slider_label_1"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text=""
+    />
+<SeekBar android:id="@+id/slider_1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:max="100"
+        android:progress="50"
+        android:thumb="@drawable/thumb" 
+        android:progressDrawable="@drawable/progress_drawable"
+        android:secondaryProgress="50" />
+
+<TextView  
+    android:id="@+id/slider_label_2"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text=""
+    />
+<SeekBar android:id="@+id/slider_2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:max="100"
+        android:progress="50"
+        android:thumb="@drawable/thumb" 
+        android:progressDrawable="@drawable/progress_drawable"
+        android:secondaryProgress="50" />
+
+<TextView  
+    android:id="@+id/slider_label_3"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text=""
+    />
+<SeekBar android:id="@+id/slider_3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:max="100"
+        android:progress="50"
+        android:thumb="@drawable/thumb" 
+        android:progressDrawable="@drawable/progress_drawable"
+        android:secondaryProgress="50" />
+
+<TextView  
+    android:id="@+id/slider_label_4"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text=""
+    />
+<SeekBar android:id="@+id/slider_4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:max="100"
+        android:progress="50"
+        android:thumb="@drawable/thumb" 
+        android:progressDrawable="@drawable/progress_drawable"
+        android:secondaryProgress="50" />
+
+<TextView  
+    android:id="@+id/slider_label_5"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text=""
+    />
+<SeekBar android:id="@+id/slider_5"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:max="100"
+        android:progress="50"
+        android:thumb="@drawable/thumb" 
+        android:progressDrawable="@drawable/progress_drawable"
+        android:secondaryProgress="50" />
+
+<TextView  
+    android:id="@+id/slider_label_6"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text=""
+    />
+<SeekBar android:id="@+id/slider_6"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:max="100"
+        android:progress="50"
+        android:thumb="@drawable/thumb" 
+        android:progressDrawable="@drawable/progress_drawable"
+        android:secondaryProgress="50" />
+
+<TextView  
+    android:id="@+id/slider_label_7"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text=""
+    />
+<SeekBar android:id="@+id/slider_7"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:max="100"
+        android:progress="50"
+        android:thumb="@drawable/thumb" 
+        android:progressDrawable="@drawable/progress_drawable"
+        android:secondaryProgress="50" />
+
+<TextView  
+    android:id="@+id/slider_label_8"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text=""
+    />
+<SeekBar android:id="@+id/slider_8"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:max="100"
+        android:progress="50"
+        android:thumb="@drawable/thumb" 
+        android:progressDrawable="@drawable/progress_drawable"
+        android:secondaryProgress="50" />
+
+</LinearLayout>
+
