@@ -2077,22 +2077,23 @@ containing a value of this type.
         public static final int logo=0x7f02005d;
         public static final int musical_off=0x7f02005e;
         public static final int musical_on=0x7f02005f;
-        public static final int notification_template_icon_bg=0x7f02006f;
+        public static final int notification_template_icon_bg=0x7f020070;
         public static final int off=0x7f020060;
         public static final int on=0x7f020061;
         public static final int plastic=0x7f020062;
-        public static final int pointer=0x7f020063;
-        public static final int progress_drawable=0x7f020064;
-        public static final int rotoroff=0x7f020065;
-        public static final int rotoron=0x7f020066;
-        public static final int stator=0x7f020067;
-        public static final int telephone_off=0x7f020068;
-        public static final int telephone_on=0x7f020069;
-        public static final int thumb=0x7f02006a;
-        public static final int toggle=0x7f02006b;
-        public static final int toggle2=0x7f02006c;
-        public static final int watch_off=0x7f02006d;
-        public static final int watch_on=0x7f02006e;
+        public static final int play=0x7f020063;
+        public static final int pointer=0x7f020064;
+        public static final int progress_drawable=0x7f020065;
+        public static final int rotoroff=0x7f020066;
+        public static final int rotoron=0x7f020067;
+        public static final int stator=0x7f020068;
+        public static final int telephone_off=0x7f020069;
+        public static final int telephone_on=0x7f02006a;
+        public static final int thumb=0x7f02006b;
+        public static final int toggle=0x7f02006c;
+        public static final int toggle2=0x7f02006d;
+        public static final int watch_off=0x7f02006e;
+        public static final int watch_on=0x7f02006f;
     }
     public static final class id {
         public static final int about=0x7f0c0082;

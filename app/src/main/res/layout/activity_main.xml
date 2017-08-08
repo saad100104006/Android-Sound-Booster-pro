@@ -2,51 +2,53 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
     android:id="@+id/top"
-    >
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
 
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
         android:background="@drawable/bg_home"
         android:orientation="vertical"
-        android:weightSum="1"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true">
+        android:weightSum="1">
+
+
+        <ToggleButton
+            android:id="@+id/toggleSwitch"
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+            android:layout_gravity="right"
+            android:background="@drawable/toggle2"
+            android:layout_marginTop="8dp"
+            android:layout_marginRight="8dp"
+            android:gravity="right"
+            android:textOff="@null"
+            android:textOn="@null" />
 
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight=".33"
-            android:orientation="vertical"
-            android:weightSum="1"
+            android:gravity="left"
+            android:orientation="horizontal"
             tools:layout_editor_absoluteX="8dp"
-            android:layout_marginTop="10dp"
-            android:gravity="right"
+            android:layout_marginTop="-65dp"
+            android:layout_marginLeft="5dp"
             >
-            <Button
+
+            <ImageButton
                 android:id="@+id/music"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Music"
-                />
-
-
-
-
-            <ToggleButton
-                android:id="@+id/toggleSwitch"
-                android:layout_width="100dp"
-                android:layout_height="60dp"
-                android:layout_marginLeft="30dp"
-                android:textOff="@null"
-                android:textOn="@null"
-                android:background="@drawable/toggle2" />
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_gravity="left"
+                android:background="@drawable/play"
+                android:text="Music" />
 
 
         </LinearLayout>
@@ -56,23 +58,21 @@
 
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight=".33"
+            android:layout_gravity="center"
+            android:layout_weight=".40"
+            android:gravity="center|top"
             android:orientation="vertical"
             android:weightSum="1"
             tools:layout_editor_absoluteX="8dp"
-            tools:layout_editor_absoluteY="0dp"
-            android:layout_gravity="center"
-            android:gravity="center|top"
-            >
+            tools:layout_editor_absoluteY="0dp">
 
             <TextView
                 android:id="@+id/text"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="40dp"
-                android:textColor="#ffffff"
                 android:text="50%"
-                />
+                android:textColor="#ffffff"
+                android:textSize="40dp" />
 
 
         </LinearLayout>
@@ -115,9 +115,9 @@
                         android:layout_width="60dp"
                         android:layout_height="60dp"
                         android:layout_marginLeft="30dp"
+                        android:background="@drawable/toggle"
                         android:textOff="@null"
-                        android:textOn="@null"
-                        android:background="@drawable/toggle" />
+                        android:textOn="@null" />
 
                 </LinearLayout>
 
@@ -142,9 +142,9 @@
                         android:layout_width="60dp"
                         android:layout_height="60dp"
                         android:layout_marginLeft="30dp"
+                        android:background="@drawable/toggle"
                         android:textOff="@null"
-                        android:textOn="@null"
-                        android:background="@drawable/toggle" />
+                        android:textOn="@null" />
 
                 </LinearLayout>
 
@@ -168,9 +168,9 @@
                         android:layout_width="60dp"
                         android:layout_height="60dp"
                         android:layout_marginLeft="30dp"
+                        android:background="@drawable/toggle"
                         android:textOff="@null"
-                        android:textOn="@null"
-                        android:background="@drawable/toggle" />
+                        android:textOn="@null" />
 
                 </LinearLayout>
 

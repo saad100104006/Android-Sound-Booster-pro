@@ -13,6 +13,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.SeekBar;
@@ -24,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     ToggleButton t1, t2, t3;
+    ToggleButton toogleBoost;
     ImageView imageView1, imageView2, imageView3;
     TextView percents;
     int flag = 0;
@@ -33,10 +35,9 @@ public class MainActivity extends AppCompatActivity {
     Singleton m_Inst = Singleton.getInstance();
     private AudioManager myAudioManager;
     int tempPer = 2;
-    private boolean music,call,notification;
-
-    Button musics;
-
+    private boolean music, call, notification;
+    ImageButton musics;
+    private int boostFlag = 0;
 
     private String artist = null;
     private int volume = 50;
@@ -58,7 +59,6 @@ public class MainActivity extends AppCompatActivity {
     private AudioManager audio;
 
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -67,13 +67,7 @@ public class MainActivity extends AppCompatActivity {
 
         this.vib = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
         this.audio = (AudioManager) getSystemService(Context.AUDIO_SERVICE);
-
-
-        // this.mySettings = getSharedPreferences("VATSpkPro", 0);
-        VolumeBoosterService.init(this);
-
-
-
+        myAudioManager = (AudioManager) getSystemService(Context.AUDIO_SERVICE);
         t1 = (ToggleButton) findViewById(R.id.toggle1);
         t2 = (ToggleButton) findViewById(R.id.toggle2);
         t3 = (ToggleButton) findViewById(R.id.toggle3);
@@ -81,8 +75,12 @@ public class MainActivity extends AppCompatActivity {
         imageView2 = (ImageView) findViewById(R.id.imageView2);
         imageView3 = (ImageView) findViewById(R.id.imageView3);
         percents = (TextView) findViewById(R.id.text);
-        musics=(Button)findViewById(R.id.music);
+        musics = (ImageButton) findViewById(R.id.music);
+        toogleBoost = (ToggleButton) findViewById(R.id.toggleSwitch);
 
+
+        // this.mySettings = getSharedPreferences("VATSpkPro", 0);
+        VolumeBoosterService.init(this);
 
 
         this.h = new Handler();
@@ -94,8 +92,6 @@ public class MainActivity extends AppCompatActivity {
                 //   MainActivity.this.updateSongInfo();
             }
         });
-
-
 
 
         musics.setOnClickListener(new View.OnClickListener() {
@@ -112,8 +108,37 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-        myAudioManager = (AudioManager) getSystemService(Context.AUDIO_SERVICE);
+        toogleBoost.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
 
+                if (boostFlag == 0) {
+
+                    Toast.makeText(MainActivity.this, "Boost is ON!",
+                            Toast.LENGTH_LONG).show();
+                    boostFlag = 1;
+                    percents.setVisibility(View.VISIBLE);
+
+
+                } else if (boostFlag == 1) {
+
+                    Toast.makeText(MainActivity.this, "Boost is OFF!",
+                            Toast.LENGTH_LONG).show();
+
+                    percents.setVisibility(View.GONE);
+
+                    boostFlag = 0;
+
+
+                    MainActivity.this.boost = 0;
+                    setVolume();
+                    MainActivity.this.vib.vibrate(0);
+
+
+                }
+
+            }
+        });
 
 
         t1.setOnClickListener(new View.OnClickListener() {
@@ -123,13 +148,13 @@ public class MainActivity extends AppCompatActivity {
 
                 if (flag == 0) {
                     imageView1.setImageResource(R.drawable.musical_on);
-                    music=true;
+                    music = true;
                     // managerOfSound();
 
                     flag = 1;
                 } else {
                     imageView1.setImageResource(R.drawable.musical_off);
-                    music=false;
+                    music = false;
 
                     flag = 0;
                 }
@@ -146,12 +171,12 @@ public class MainActivity extends AppCompatActivity {
                 if (flag2 == 0) {
 
                     imageView2.setImageResource(R.drawable.telephone_on);
-                    call=true;
+                    call = true;
                     // managerOfSound();
                     flag2 = 1;
                 } else {
                     imageView2.setImageResource(R.drawable.telephone_off);
-                    call=false;
+                    call = false;
                     flag2 = 0;
                 }
 
@@ -167,24 +192,18 @@ public class MainActivity extends AppCompatActivity {
                 if (flag3 == 0) {
 
                     imageView3.setImageResource(R.drawable.alarm_on);
-                    notification=true;
+                    notification = true;
                     // managerOfSound();
                     flag3 = 1;
                 } else {
                     imageView3.setImageResource(R.drawable.alarm_off);
-                    notification=false;
+                    notification = false;
                     flag3 = 0;
                 }
 
 
             }
         });
-
-
-
-
-
-
 
 
         // Scaling mechanism, as explained on:
@@ -206,7 +225,7 @@ public class MainActivity extends AppCompatActivity {
 
         //final TextView tv2 = new TextView(this); tv2.setText("");
         percents.setText("");
-        RelativeLayout.LayoutParams  lp = new RelativeLayout.LayoutParams(RelativeLayout.LayoutParams.WRAP_CONTENT, RelativeLayout.LayoutParams.WRAP_CONTENT);
+        RelativeLayout.LayoutParams lp = new RelativeLayout.LayoutParams(RelativeLayout.LayoutParams.WRAP_CONTENT, RelativeLayout.LayoutParams.WRAP_CONTENT);
         lp.addRule(RelativeLayout.CENTER_HORIZONTAL);
         lp.addRule(RelativeLayout.ALIGN_PARENT_TOP);
         //percents.addRule(RelativeLayout.ALIGN_PARENT_BOTTOM);
@@ -231,11 +250,19 @@ public class MainActivity extends AppCompatActivity {
             public void onRotate(final int percentage) {
                 percents.post(new Runnable() {
                     public void run() {
-                        percents.setText("\n" + percentage + "%\n");
 
-                        MainActivity.this.boost = percentage;
-                        MainActivity.this.setVolume();
-                        MainActivity. this.vib.vibrate(percentage);
+                        if (boostFlag == 1) {
+
+                            percents.setText("\n" + "Boost " + percentage + "%\n");
+
+
+                            //boosting sound
+
+                            MainActivity.this.boost = percentage * 10;
+                            MainActivity.this.setVolume();
+                            MainActivity.this.vib.vibrate(percentage);
+
+                        }
 
 /*
                       //  setVolumeControlStream(AudioManager.STREAM_ALARM);
@@ -285,9 +312,6 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-
-
-
     }
 
 
@@ -320,17 +344,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-
     protected void onResume() {
         super.onResume();
         this.volume = (int) (100.0f * (((float) this.audio.getStreamVolume(3)) / ((float) this.audio.getStreamMaxVolume(3))));
         //  updateVolumeInfo();
 
     }
-
-
-
-
 
 
     public void onPlayButtonClick(View v) {
