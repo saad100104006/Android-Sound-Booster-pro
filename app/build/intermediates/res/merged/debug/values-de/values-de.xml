@@ -19,5 +19,10 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Freigeben für"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Freigeben für %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="rate_dialog_cancel">Später erinnern</string>
+    <string name="rate_dialog_message">Falls dir diese App gefällt, könntest du dir bitte einen Moment Zeit nehmen, sie zu bewerten? Es dauert nicht länger als eine Minute. Vielen Dank für deine Unterstützung!</string>
+    <string name="rate_dialog_no">Nein, danke</string>
+    <string name="rate_dialog_ok">Jetzt bewerten</string>
+    <string name="rate_dialog_title">Bewerte diese App</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

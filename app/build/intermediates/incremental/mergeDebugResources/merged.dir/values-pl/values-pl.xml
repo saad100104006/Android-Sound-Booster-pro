@@ -19,5 +19,10 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Udostępnij dla"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Udostępnij dla %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Zwiń"</string>
+    <string name="rate_dialog_cancel">Przypomnij mi później</string>
+    <string name="rate_dialog_message">Jeśli podoba Ci ta się aplikacja, to czy poświęcisz chwilę, aby ją ocenić? Nie zajmie Ci to dłużej niż minutę. Dziękujemy za Twoje wsparcie! </string>
+    <string name="rate_dialog_no">Nie, dziękuję</string>
+    <string name="rate_dialog_ok">Oceń teraz</string>
+    <string name="rate_dialog_title">Oceń aplikację</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

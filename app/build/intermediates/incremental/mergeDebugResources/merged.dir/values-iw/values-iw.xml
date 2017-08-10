@@ -19,5 +19,10 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"שתף עם"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏שתף עם %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"כווץ"</string>
+    <string name="rate_dialog_cancel">אחר כך</string>
+    <string name="rate_dialog_message">אם את נהנית מהשימוש באפליקציה, מה דעתך לדרג אותה? זה לא ייקח יותר מדקה. תודה על התמיכה!</string>
+    <string name="rate_dialog_no">לא תודה</string>
+    <string name="rate_dialog_ok">דרגי כעת</string>
+    <string name="rate_dialog_title">דרגי את האפלקציה</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"‎999+‎"</string>
 </resources>

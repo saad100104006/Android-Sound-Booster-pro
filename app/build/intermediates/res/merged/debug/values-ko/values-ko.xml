@@ -19,5 +19,10 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"공유 대상"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s와(과) 공유"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"접기"</string>
+    <string name="rate_dialog_cancel">나중에하는</string>
+    <string name="rate_dialog_message">이 응용 프로그램을 사용하셔야 대단히 감사합니다. 만약 괜찮 으시면 1 분 정도로 끝나기 때문에이 응용 프로그램의 평가를 부탁드립니다. 도와 주셔서 감사합니다!</string>
+    <string name="rate_dialog_no">아니, 괜찮아요</string>
+    <string name="rate_dialog_ok">지금 평가</string>
+    <string name="rate_dialog_title">앱의 평가</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

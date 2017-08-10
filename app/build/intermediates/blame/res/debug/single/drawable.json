@@ -32,8 +32,24 @@
         "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
+        "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/bc.jpg",
+        "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/res/drawable/bc.jpg"
+    },
+    {
         "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/button_on2.png",
         "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/res/drawable/button_on2.png"
+    },
+    {
+        "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/speaker.jpg",
+        "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/res/drawable/speaker.jpg"
+    },
+    {
+        "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/icons.jpg",
+        "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/res/drawable/icons.jpg"
     },
     {
         "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/progress_drawable.xml",
@@ -60,16 +76,16 @@
         "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/res/drawable/musical_on.png"
     },
     {
+        "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/thumb.png",
+        "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/res/drawable/thumb.png"
+    },
+    {
         "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
         "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_textfield_search_material.xml"
     },
     {
         "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
         "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_light.xml"
-    },
-    {
-        "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/thumb.png",
-        "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/res/drawable/thumb.png"
     },
     {
         "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/telephone_off.png",
@@ -96,12 +112,12 @@
         "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/res/drawable/button_enabled.png"
     },
     {
-        "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/lock_bg_1.jpg",
-        "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/res/drawable/lock_bg_1.jpg"
-    },
-    {
         "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/toggle.xml",
         "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/res/drawable/toggle.xml"
+    },
+    {
+        "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/lock_bg_1.jpg",
+        "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/res/drawable/lock_bg_1.jpg"
     },
     {
         "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
@@ -204,16 +220,28 @@
         "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/res/drawable/button_off2.png"
     },
     {
-        "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_light.xml"
-    },
-    {
         "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/telephone_on.png",
         "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/res/drawable/telephone_on.png"
     },
     {
+        "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/ddd.jpg",
+        "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/res/drawable/ddd.jpg"
+    },
+    {
+        "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/background.jpg",
+        "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/res/drawable/background.jpg"
+    },
+    {
         "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/app_background.jpg",
         "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/res/drawable/app_background.jpg"
+    },
+    {
+        "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/back.jpg",
+        "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/res/drawable/back.jpg"
     },
     {
         "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable/watch_on.png",

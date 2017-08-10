@@ -4,12 +4,14 @@ import android.app.Dialog;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.graphics.Typeface;
 import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Vibrator;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
@@ -20,6 +22,9 @@ import android.widget.SeekBar;
 import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.ToggleButton;
+
+import hotchemi.android.rate.AppRate;
+import hotchemi.android.rate.OnClickButtonListener;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -46,14 +51,6 @@ public class MainActivity extends AppCompatActivity {
     private SeekBar boostSlider = null;
     private Handler h = null;
     private Runnable r = null;
-    // private HfAds hfAds = null;
-    private TextView infoTextView = null;
-    private ImageView muteButton = null;
-    private SharedPreferences mySettings;
-    private ImageView normalButton = null;
-    private Dialog popupDialog;
-
-
     private String track = null;
     private Vibrator vib = null;
     private AudioManager audio;
@@ -63,6 +60,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
 
 
         this.vib = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
@@ -77,6 +75,10 @@ public class MainActivity extends AppCompatActivity {
         percents = (TextView) findViewById(R.id.text);
         musics = (ImageButton) findViewById(R.id.music);
         toogleBoost = (ToggleButton) findViewById(R.id.toggleSwitch);
+
+
+        Typeface face= Typeface.createFromAsset(getAssets(), "android_7.ttf");
+        percents.setTypeface(face);
 
 
         // this.mySettings = getSharedPreferences("VATSpkPro", 0);
@@ -207,7 +209,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         // Scaling mechanism, as explained on:
-        // http://www.pocketmagic.net/2013/04/how-to-scale-an-android-ui-on-multiple-screens/
+
         m_Inst.InitGUIFrame(this);
 
         //  RelativeLayout panel = new RelativeLayout(this);
@@ -258,13 +260,15 @@ public class MainActivity extends AppCompatActivity {
 
                             //boosting sound
 
-                            MainActivity.this.boost = percentage * 10;
+                            int tempBoost=percentage * 2;
+
+                            MainActivity.this.boost = tempBoost;
                             MainActivity.this.setVolume();
                             MainActivity.this.vib.vibrate(percentage);
 
                         }
 
-/*
+
                       //  setVolumeControlStream(AudioManager.STREAM_ALARM);
                         if (percentage > tempPer) {
 
@@ -276,7 +280,7 @@ public class MainActivity extends AppCompatActivity {
 
                                 myAudioManager.setStreamVolume(AudioManager.STREAM_ALARM, percentage / 10, 0);
                             }
-                            if(music) {
+                            if(music) {sour
                                 myAudioManager.setStreamVolume(AudioManager.STREAM_MUSIC, percentage / 10, 0);
                             }
                             if(call) {
@@ -305,26 +309,34 @@ public class MainActivity extends AppCompatActivity {
                         }
 
 
-                        tempPer = percentage;*/
+                        tempPer = percentage;
                     }
                 });
             }
         });
 
 
+
+        AppRate.with(this)
+                .setInstallDays(0) // default 10, 0 means install day.
+                .setLaunchTimes(3) // default 10
+                .setRemindInterval(2) // default 1
+                .setShowLaterButton(true) // default true
+                .setDebug(false) // default false
+                .setOnClickButtonListener(new OnClickButtonListener() { // callback listener.
+                    @Override
+                    public void onClickButton(int which) {
+                        Log.d(MainActivity.class.getName(), Integer.toString(which));
+                    }
+                })
+                .monitor();
+
+        // Show a dialog if meets conditions
+        AppRate.showRateDialogIfMeetsConditions(this);
+
+
     }
 
-
-/*
-
-    private void updateVolumeInfo() {
-       // this.infoTextView.setText(("Speaker Booster Pro \n" + "Volume: " + this.volume + "%") + "   Boost: " + this.boost + "%");
-        if (this.track != null || this.artist != null) {
-            this.h.removeCallbacks(this.r);
-            this.h.postDelayed(this.r, 2000);
-        }
-    }
-*/
 
     private void setVolume() {
         VolumeBoosterService.setVolume(this.volume, this.boost, this);
@@ -335,11 +347,7 @@ public class MainActivity extends AppCompatActivity {
     public void onBoostClicked(View view) {
         this.volume = 100;
         this.boost = 100;
-        // this.potentiometer.setProgress(this.volume * 10);
-        //  this.boostSlider.setProgress(this.boost);
-
         setVolume();
-
         this.vib.vibrate(10);
     }
 
@@ -347,8 +355,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
         this.volume = (int) (100.0f * (((float) this.audio.getStreamVolume(3)) / ((float) this.audio.getStreamMaxVolume(3))));
-        //  updateVolumeInfo();
-
     }
 
 

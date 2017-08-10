@@ -44,6 +44,10 @@
         "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
     },
     {
+        "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/layout/acitivty_start.xml",
+        "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/res/layout/acitivty_start.xml"
+    },
+    {
         "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
@@ -148,12 +152,12 @@
         "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
-    },
-    {
         "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
         "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
     },
     {
         "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",

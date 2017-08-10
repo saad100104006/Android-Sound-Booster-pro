@@ -1580,9 +1580,72 @@
                     "startLine": 210,
                     "startColumn": 4,
                     "startOffset": 15836,
-                    "endLine": 219,
+                    "endLine": 217,
                     "endColumn": 12,
-                    "endOffset": 16344
+                    "endOffset": 16464
+                },
+                "from": {
+                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.github.hotchemi/android-rate/1.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 16469,
+                    "endLine": 224,
+                    "endColumn": 12,
+                    "endOffset": 16906
+                },
+                "from": {
+                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.github.hotchemi/android-rate/1.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 820,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 16911,
+                    "endLine": 228,
+                    "endColumn": 12,
+                    "endOffset": 17185
+                },
+                "from": {
+                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.github.hotchemi/android-rate/1.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1262,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 1536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 17190,
+                    "endLine": 238,
+                    "endColumn": 12,
+                    "endOffset": 17698
                 },
                 "from": {
                     "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
@@ -1598,12 +1661,12 @@
             },
             {
                 "to": {
-                    "startLine": 220,
+                    "startLine": 239,
                     "startColumn": 4,
-                    "startOffset": 16349,
-                    "endLine": 229,
+                    "startOffset": 17703,
+                    "endLine": 248,
                     "endColumn": 12,
-                    "endOffset": 16869
+                    "endOffset": 18223
                 },
                 "from": {
                     "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
@@ -1619,12 +1682,12 @@
             },
             {
                 "to": {
-                    "startLine": 230,
+                    "startLine": 249,
                     "startColumn": 4,
-                    "startOffset": 16874,
-                    "endLine": 239,
+                    "startOffset": 18228,
+                    "endLine": 258,
                     "endColumn": 12,
-                    "endOffset": 17549
+                    "endOffset": 18903
                 },
                 "from": {
                     "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
@@ -1640,11 +1703,11 @@
             },
             {
                 "to": {
-                    "startLine": 240,
+                    "startLine": 259,
                     "startColumn": 4,
-                    "startOffset": 17554,
+                    "startOffset": 18908,
                     "endColumn": 56,
-                    "endOffset": 17606
+                    "endOffset": 18960
                 },
                 "from": {
                     "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
@@ -1659,11 +1722,11 @@
             },
             {
                 "to": {
-                    "startLine": 241,
+                    "startLine": 260,
                     "startColumn": 4,
-                    "startOffset": 17611,
+                    "startOffset": 18965,
                     "endColumn": 57,
-                    "endOffset": 17664
+                    "endOffset": 19018
                 },
                 "from": {
                     "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",

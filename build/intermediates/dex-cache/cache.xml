@@ -39,6 +39,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.github.hotchemi/android-rate/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="96c9e074db04656ab37f18c5a3bbb314225c416a">
+        <dex dex="/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/pre-dexed/debug/com.github.hotchemi-android-rate-1.0.1_4b2452067b31879a6dbed727ee2c242fe9939598.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
