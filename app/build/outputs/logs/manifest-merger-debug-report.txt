@@ -2,7 +2,7 @@
 manifest
 ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:2:1-41:12
 	package
-		ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:3:7-49
+		ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:3:7-47
 		INJECTED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -67,12 +67,12 @@ MERGED from [com.github.hotchemi:android-rate:1.0.1] /Users/md.tanvirsaad/Androi
 		ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:18:9-43
 	android:theme
 		ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:20:9-52
-activity#com.kevinboone.android_simple_eq.StartActivity
+activity#com.soundbooster.pro.StartActivity
 ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:21:9-27:20
 	android:label
 		ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:22:13-45
 	android:name
-		ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:21:19-48
+		ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:21:19-68
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:23:13-26:29
 action#android.intent.action.MAIN
@@ -83,20 +83,20 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:25:17-77
 	android:name
 		ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:25:27-74
-activity#com.kevinboone.android_simple_eq.MainActivity
+activity#com.soundbooster.pro.MainActivity
 ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:28:9-31:20
 	android:label
 		ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:29:19-51
 	android:name
-		ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:28:19-47
-service#com.kevinboone.android_simple_eq.VolumeBoosterService
+		ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:28:19-67
+service#com.soundbooster.pro.VolumeBoosterService
 ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:32:9-36:19
 	android:enabled
-		ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:32:87-109
+		ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:32:75-97
 	android:exported
-		ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:32:110-134
+		ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:32:98-122
 	android:name
-		ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:32:18-86
+		ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:32:18-74
 intent-filter#com.kevinboone.android_simple_eq.VolumeBoosterService.SERVICE
 ADDED from /Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/AndroidManifest.xml:33:13-35:29
 action#com.kevinboone.android_simple_eq.VolumeBoosterService.SERVICE
