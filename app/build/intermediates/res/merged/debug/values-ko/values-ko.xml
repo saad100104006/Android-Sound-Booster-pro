@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"홈 탐색"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
     <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
@@ -19,6 +19,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"공유 대상"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s와(과) 공유"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"접기"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>에서 Google Play 서비스를 사용하는 데 문제가 있습니다. 문제가 계속되는 경우 개발자에게 지원을 요청하세요."</string>
     <string name="rate_dialog_cancel">나중에하는</string>
     <string name="rate_dialog_message">이 응용 프로그램을 사용하셔야 대단히 감사합니다. 만약 괜찮 으시면 1 분 정도로 끝나기 때문에이 응용 프로그램의 평가를 부탁드립니다. 도와 주셔서 감사합니다!</string>
     <string name="rate_dialog_no">아니, 괜찮아요</string>

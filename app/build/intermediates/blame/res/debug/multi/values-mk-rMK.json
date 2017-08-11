@@ -1,17 +1,17 @@
 [
     {
-        "outputFile": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk-rMK/values-mk-rMK.xml",
+        "outputFile": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk-rMK/values-mk-rMK.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 55,
+                    "startOffset": 105,
                     "endColumn": 107,
-                    "endOffset": 158
+                    "endOffset": 208
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -25,12 +25,12 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 163,
+                    "startOffset": 213,
                     "endColumn": 122,
-                    "endOffset": 281
+                    "endOffset": 331
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -44,12 +44,12 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 286,
+                    "startOffset": 336,
                     "endColumn": 103,
-                    "endOffset": 385
+                    "endOffset": 435
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -63,12 +63,12 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 390,
+                    "startOffset": 440,
                     "endColumn": 107,
-                    "endOffset": 493
+                    "endOffset": 543
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -82,12 +82,12 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 498,
+                    "startOffset": 548,
                     "endColumn": 85,
-                    "endOffset": 579
+                    "endOffset": 629
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -101,12 +101,12 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 584,
+                    "startOffset": 634,
                     "endColumn": 104,
-                    "endOffset": 684
+                    "endOffset": 734
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -120,12 +120,12 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 689,
+                    "startOffset": 739,
                     "endColumn": 118,
-                    "endOffset": 803
+                    "endOffset": 853
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -139,12 +139,12 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 808,
+                    "startOffset": 858,
                     "endColumn": 82,
-                    "endOffset": 886
+                    "endOffset": 936
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -158,12 +158,12 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 891,
+                    "startOffset": 941,
                     "endColumn": 81,
-                    "endOffset": 968
+                    "endOffset": 1018
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -177,12 +177,12 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 973,
+                    "startOffset": 1023,
                     "endColumn": 86,
-                    "endOffset": 1055
+                    "endOffset": 1105
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -196,12 +196,12 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1060,
+                    "startOffset": 1110,
                     "endColumn": 105,
-                    "endOffset": 1161
+                    "endOffset": 1211
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -215,12 +215,12 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1166,
+                    "startOffset": 1216,
                     "endColumn": 106,
-                    "endOffset": 1268
+                    "endOffset": 1318
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -234,12 +234,12 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1273,
+                    "startOffset": 1323,
                     "endColumn": 100,
-                    "endOffset": 1369
+                    "endOffset": 1419
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -253,12 +253,12 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1374,
+                    "startOffset": 1424,
                     "endColumn": 106,
-                    "endOffset": 1476
+                    "endOffset": 1526
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -272,12 +272,12 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1481,
+                    "startOffset": 1531,
                     "endColumn": 110,
-                    "endOffset": 1587
+                    "endOffset": 1637
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -291,12 +291,12 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1592,
+                    "startOffset": 1642,
                     "endColumn": 103,
-                    "endOffset": 1691
+                    "endOffset": 1741
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -310,12 +310,12 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1696,
+                    "startOffset": 1746,
                     "endColumn": 97,
-                    "endOffset": 1789
+                    "endOffset": 1839
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -329,12 +329,31 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1794,
-                    "endColumn": 100,
-                    "endOffset": 1890
+                    "startOffset": 1844,
+                    "endColumn": 237,
+                    "endOffset": 2077
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values-mk-rMK/common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 241,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2082,
+                    "endColumn": 100,
+                    "endOffset": 2178
+                },
+                "from": {
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-mk-rMK/values-mk-rMK.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,

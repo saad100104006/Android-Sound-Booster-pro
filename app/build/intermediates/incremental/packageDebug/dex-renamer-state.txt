@@ -1,4 +1,4 @@
-#Thu Aug 10 14:50:34 BDT 2017
-base.0=/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Fri Aug 11 23:06:01 BDT 2017
+base.0=/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

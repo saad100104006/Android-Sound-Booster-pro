@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Przejdź do strony głównej"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
     <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
@@ -19,6 +19,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Udostępnij dla"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Udostępnij dla %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Zwiń"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ma problem z dostępem do usług Google Play. Jeśli problem będzie się utrzymywać, skontaktuj się z programistą, by uzyskać pomoc."</string>
     <string name="rate_dialog_cancel">Przypomnij mi później</string>
     <string name="rate_dialog_message">Jeśli podoba Ci ta się aplikacja, to czy poświęcisz chwilę, aby ją ocenić? Nie zajmie Ci to dłużej niż minutę. Dziękujemy za Twoje wsparcie! </string>
     <string name="rate_dialog_no">Nie, dziękuję</string>

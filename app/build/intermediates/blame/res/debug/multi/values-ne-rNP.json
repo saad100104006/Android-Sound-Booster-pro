@@ -1,17 +1,17 @@
 [
     {
-        "outputFile": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne-rNP/values-ne-rNP.xml",
+        "outputFile": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne-rNP/values-ne-rNP.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 55,
+                    "startOffset": 105,
                     "endColumn": 104,
-                    "endOffset": 155
+                    "endOffset": 205
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -25,12 +25,12 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 160,
+                    "startOffset": 210,
                     "endColumn": 107,
-                    "endOffset": 263
+                    "endOffset": 313
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -44,12 +44,12 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 268,
+                    "startOffset": 318,
                     "endColumn": 122,
-                    "endOffset": 386
+                    "endOffset": 436
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -63,12 +63,12 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 391,
+                    "startOffset": 441,
                     "endColumn": 103,
-                    "endOffset": 490
+                    "endOffset": 540
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -82,12 +82,12 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 495,
+                    "startOffset": 545,
                     "endColumn": 107,
-                    "endOffset": 598
+                    "endOffset": 648
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -101,12 +101,12 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 603,
+                    "startOffset": 653,
                     "endColumn": 90,
-                    "endOffset": 689
+                    "endOffset": 739
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -120,12 +120,12 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 694,
+                    "startOffset": 744,
                     "endColumn": 106,
-                    "endOffset": 796
+                    "endOffset": 846
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -139,12 +139,12 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 801,
+                    "startOffset": 851,
                     "endColumn": 126,
-                    "endOffset": 923
+                    "endOffset": 973
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -158,12 +158,12 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 928,
+                    "startOffset": 978,
                     "endColumn": 93,
-                    "endOffset": 1017
+                    "endOffset": 1067
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -177,12 +177,12 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1022,
+                    "startOffset": 1072,
                     "endColumn": 89,
-                    "endOffset": 1107
+                    "endOffset": 1157
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -196,12 +196,12 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1112,
+                    "startOffset": 1162,
                     "endColumn": 87,
-                    "endOffset": 1195
+                    "endOffset": 1245
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -215,12 +215,12 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1200,
+                    "startOffset": 1250,
                     "endColumn": 109,
-                    "endOffset": 1305
+                    "endOffset": 1355
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -234,12 +234,12 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1310,
+                    "startOffset": 1360,
                     "endColumn": 115,
-                    "endOffset": 1421
+                    "endOffset": 1471
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -253,12 +253,12 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1426,
+                    "startOffset": 1476,
                     "endColumn": 102,
-                    "endOffset": 1524
+                    "endOffset": 1574
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -272,12 +272,12 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1529,
+                    "startOffset": 1579,
                     "endColumn": 114,
-                    "endOffset": 1639
+                    "endOffset": 1689
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -291,12 +291,12 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1644,
+                    "startOffset": 1694,
                     "endColumn": 101,
-                    "endOffset": 1741
+                    "endOffset": 1791
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -310,12 +310,12 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1746,
+                    "startOffset": 1796,
                     "endColumn": 114,
-                    "endOffset": 1856
+                    "endOffset": 1906
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -329,12 +329,12 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1861,
+                    "startOffset": 1911,
                     "endColumn": 130,
-                    "endOffset": 1987
+                    "endOffset": 2037
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -348,12 +348,12 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1992,
+                    "startOffset": 2042,
                     "endColumn": 111,
-                    "endOffset": 2099
+                    "endOffset": 2149
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -367,12 +367,31 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2104,
-                    "endColumn": 100,
-                    "endOffset": 2200
+                    "startOffset": 2154,
+                    "endColumn": 245,
+                    "endOffset": 2395
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values-ne-rNP/common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 249,
+                        "endOffset": 415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2400,
+                    "endColumn": 100,
+                    "endOffset": 2496
+                },
+                "from": {
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ne-rNP/values-ne-rNP.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,

@@ -1,17 +1,17 @@
 [
     {
-        "outputFile": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml",
+        "outputFile": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 55,
+                    "startOffset": 105,
                     "endColumn": 113,
-                    "endOffset": 164
+                    "endOffset": 214
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -25,12 +25,12 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 169,
+                    "startOffset": 219,
                     "endColumn": 107,
-                    "endOffset": 272
+                    "endOffset": 322
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -44,12 +44,12 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 277,
+                    "startOffset": 327,
                     "endColumn": 122,
-                    "endOffset": 395
+                    "endOffset": 445
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -63,12 +63,12 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 400,
+                    "startOffset": 450,
                     "endColumn": 107,
-                    "endOffset": 503
+                    "endOffset": 553
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -82,12 +82,12 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 508,
+                    "startOffset": 558,
                     "endColumn": 108,
-                    "endOffset": 612
+                    "endOffset": 662
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -101,12 +101,12 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 617,
+                    "startOffset": 667,
                     "endColumn": 83,
-                    "endOffset": 696
+                    "endOffset": 746
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -120,12 +120,12 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 701,
+                    "startOffset": 751,
                     "endColumn": 102,
-                    "endOffset": 799
+                    "endOffset": 849
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -139,12 +139,12 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 804,
+                    "startOffset": 854,
                     "endColumn": 118,
-                    "endOffset": 918
+                    "endOffset": 968
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -158,12 +158,12 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 923,
+                    "startOffset": 973,
                     "endColumn": 76,
-                    "endOffset": 995
+                    "endOffset": 1045
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -177,12 +177,12 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1000,
+                    "startOffset": 1050,
                     "endColumn": 76,
-                    "endOffset": 1072
+                    "endOffset": 1122
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -196,12 +196,12 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1077,
+                    "startOffset": 1127,
                     "endColumn": 83,
-                    "endOffset": 1156
+                    "endOffset": 1206
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -215,12 +215,12 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1161,
+                    "startOffset": 1211,
                     "endColumn": 103,
-                    "endOffset": 1260
+                    "endOffset": 1310
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -234,12 +234,12 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1265,
+                    "startOffset": 1315,
                     "endColumn": 108,
-                    "endOffset": 1369
+                    "endOffset": 1419
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -253,12 +253,12 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1374,
+                    "startOffset": 1424,
                     "endColumn": 100,
-                    "endOffset": 1470
+                    "endOffset": 1520
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -272,12 +272,12 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1475,
+                    "startOffset": 1525,
                     "endColumn": 104,
-                    "endOffset": 1575
+                    "endOffset": 1625
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -291,12 +291,12 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1580,
+                    "startOffset": 1630,
                     "endColumn": 113,
-                    "endOffset": 1689
+                    "endOffset": 1739
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -310,12 +310,12 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1694,
+                    "startOffset": 1744,
                     "endColumn": 104,
-                    "endOffset": 1794
+                    "endOffset": 1844
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -329,12 +329,12 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1799,
+                    "startOffset": 1849,
                     "endColumn": 119,
-                    "endOffset": 1914
+                    "endOffset": 1964
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -348,12 +348,12 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1919,
+                    "startOffset": 1969,
                     "endColumn": 98,
-                    "endOffset": 2013
+                    "endOffset": 2063
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -367,12 +367,31 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2018,
-                    "endColumn": 59,
-                    "endOffset": 2073
+                    "startOffset": 2068,
+                    "endColumn": 260,
+                    "endOffset": 2324
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.github.hotchemi/android-rate/1.0.1/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values-vi/common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 264,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2329,
+                    "endColumn": 59,
+                    "endOffset": 2384
+                },
+                "from": {
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.github.hotchemi/android-rate/1.0.1/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -384,14 +403,14 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2078,
+                    "startOffset": 2389,
                     "endColumn": 199,
-                    "endOffset": 2273
+                    "endOffset": 2584
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.github.hotchemi/android-rate/1.0.1/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.github.hotchemi/android-rate/1.0.1/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -403,14 +422,14 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2278,
+                    "startOffset": 2589,
                     "endColumn": 56,
-                    "endOffset": 2330
+                    "endOffset": 2641
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.github.hotchemi/android-rate/1.0.1/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.github.hotchemi/android-rate/1.0.1/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -422,14 +441,14 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2335,
+                    "startOffset": 2646,
                     "endColumn": 56,
-                    "endOffset": 2387
+                    "endOffset": 2698
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.github.hotchemi/android-rate/1.0.1/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.github.hotchemi/android-rate/1.0.1/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -441,14 +460,14 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2392,
+                    "startOffset": 2703,
                     "endColumn": 63,
-                    "endOffset": 2451
+                    "endOffset": 2762
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.github.hotchemi/android-rate/1.0.1/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.github.hotchemi/android-rate/1.0.1/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -460,14 +479,14 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2456,
+                    "startOffset": 2767,
                     "endColumn": 100,
-                    "endOffset": 2552
+                    "endOffset": 2863
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,

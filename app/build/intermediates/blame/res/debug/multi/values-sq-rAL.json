@@ -1,17 +1,17 @@
 [
     {
-        "outputFile": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq-rAL/values-sq-rAL.xml",
+        "outputFile": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq-rAL/values-sq-rAL.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 55,
+                    "startOffset": 105,
                     "endColumn": 113,
-                    "endOffset": 164
+                    "endOffset": 214
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -25,12 +25,12 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 169,
+                    "startOffset": 219,
                     "endColumn": 107,
-                    "endOffset": 272
+                    "endOffset": 322
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -44,12 +44,12 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 277,
+                    "startOffset": 327,
                     "endColumn": 122,
-                    "endOffset": 395
+                    "endOffset": 445
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -63,12 +63,12 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 400,
+                    "startOffset": 450,
                     "endColumn": 99,
-                    "endOffset": 495
+                    "endOffset": 545
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -82,12 +82,12 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 500,
+                    "startOffset": 550,
                     "endColumn": 111,
-                    "endOffset": 607
+                    "endOffset": 657
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -101,12 +101,12 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 612,
+                    "startOffset": 662,
                     "endColumn": 86,
-                    "endOffset": 694
+                    "endOffset": 744
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -120,12 +120,12 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 699,
+                    "startOffset": 749,
                     "endColumn": 109,
-                    "endOffset": 804
+                    "endOffset": 854
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -139,12 +139,12 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 809,
+                    "startOffset": 859,
                     "endColumn": 122,
-                    "endOffset": 927
+                    "endOffset": 977
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -158,12 +158,12 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 932,
+                    "startOffset": 982,
                     "endColumn": 80,
-                    "endOffset": 1008
+                    "endOffset": 1058
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -177,12 +177,12 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1013,
+                    "startOffset": 1063,
                     "endColumn": 78,
-                    "endOffset": 1087
+                    "endOffset": 1137
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -196,12 +196,12 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1092,
+                    "startOffset": 1142,
                     "endColumn": 82,
-                    "endOffset": 1170
+                    "endOffset": 1220
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -215,12 +215,12 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1175,
+                    "startOffset": 1225,
                     "endColumn": 105,
-                    "endOffset": 1276
+                    "endOffset": 1326
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -234,12 +234,12 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1281,
+                    "startOffset": 1331,
                     "endColumn": 104,
-                    "endOffset": 1381
+                    "endOffset": 1431
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -253,12 +253,12 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1386,
+                    "startOffset": 1436,
                     "endColumn": 97,
-                    "endOffset": 1479
+                    "endOffset": 1529
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -272,12 +272,12 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1484,
+                    "startOffset": 1534,
                     "endColumn": 105,
-                    "endOffset": 1585
+                    "endOffset": 1635
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -291,12 +291,12 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1590,
+                    "startOffset": 1640,
                     "endColumn": 102,
-                    "endOffset": 1688
+                    "endOffset": 1738
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -310,12 +310,12 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1693,
+                    "startOffset": 1743,
                     "endColumn": 115,
-                    "endOffset": 1804
+                    "endOffset": 1854
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -329,12 +329,12 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1809,
+                    "startOffset": 1859,
                     "endColumn": 130,
-                    "endOffset": 1935
+                    "endOffset": 1985
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -348,12 +348,12 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1940,
+                    "startOffset": 1990,
                     "endColumn": 98,
-                    "endOffset": 2034
+                    "endOffset": 2084
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -367,12 +367,31 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2039,
-                    "endColumn": 100,
-                    "endOffset": 2135
+                    "startOffset": 2089,
+                    "endColumn": 239,
+                    "endOffset": 2324
                 },
                 "from": {
-                    "file": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values-sq-rAL/common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 243,
+                        "endOffset": 409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2329,
+                    "endColumn": 100,
+                    "endOffset": 2425
+                },
+                "from": {
+                    "file": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-sq-rAL/values-sq-rAL.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,

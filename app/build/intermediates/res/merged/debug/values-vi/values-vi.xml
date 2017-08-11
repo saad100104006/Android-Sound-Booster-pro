@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Điều hướng về trang chủ"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
     <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
@@ -19,6 +19,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Chia sẻ với"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Chia sẻ với %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Thu gọn"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> đang gặp sự cố với các dịch vụ của Google Play. Nếu sự cố còn tiếp diễn, vui lòng liên hệ với nhà phát triển để được trợ giúp."</string>
     <string name="rate_dialog_cancel">Nhắc lại sau</string>
     <string name="rate_dialog_message">Nếu bạn thích ứng dụng này, bạn có thể vui lòng bỏ ra chút ít thời gian để đánh giá nó? Bạn sẽ chỉ mất khoảng 1 phút để thực hiện. Cảm ơn vì đã ủng hộ!</string>
     <string name="rate_dialog_no">Không, cảm ơn</string>

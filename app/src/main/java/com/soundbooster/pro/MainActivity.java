@@ -20,6 +20,9 @@ import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.ToggleButton;
 
+import com.google.android.gms.ads.AdListener;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.InterstitialAd;
 import com.kevinboone.soundboosterpro.R;
 
 import hotchemi.android.rate.AppRate;
@@ -53,12 +56,36 @@ public class MainActivity extends AppCompatActivity {
     private String track = null;
     private Vibrator vib = null;
     private AudioManager audio;
+    InterstitialAd mInterstitialAd;
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
+
+        mInterstitialAd = new InterstitialAd(this);
+
+        // set the ad unit ID
+        mInterstitialAd.setAdUnitId(getString(R.string.interstitial_full_screen));
+
+       // AdRequest adRequest = new AdRequest.Builder().addTestDevice("BFAF7D9E3D2A9C0D68C2F6179C1C91F3").build();
+
+       AdRequest adRequest = new AdRequest.Builder()
+                .build();
+
+        // Load ads into Interstitial Ads
+        mInterstitialAd.loadAd(adRequest);
+
+
+
+        mInterstitialAd.setAdListener(new AdListener() {
+            public void onAdLoaded() {
+                showInterstitial();
+            }
+        });
 
 
 
@@ -100,7 +127,9 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
 
                 try {
+
                     startActivity(new Intent("android.intent.action.MUSIC_PLAYER"));
+
                 } catch (Exception e) {
 
                 }
@@ -119,6 +148,15 @@ public class MainActivity extends AppCompatActivity {
                             Toast.LENGTH_LONG).show();
                     boostFlag = 1;
                     percents.setVisibility(View.VISIBLE);
+                   // mInterstitialAd.setAdListener(new AdListener() {
+                      //  public void onAdLoaded() {
+
+
+                            showInterstitial();
+
+
+                       // }
+                   // });
 
 
                 } else if (boostFlag == 1) {
@@ -337,6 +375,15 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+        showInterstitial();
+    }
+
+
     private void setVolume() {
         VolumeBoosterService.setVolume(this.volume, this.boost, this);
         //updateVolumeInfo();
@@ -353,6 +400,7 @@ public class MainActivity extends AppCompatActivity {
 
     protected void onResume() {
         super.onResume();
+        showInterstitial();
         this.volume = (int) (100.0f * (((float) this.audio.getStreamVolume(3)) / ((float) this.audio.getStreamMaxVolume(3))));
     }
 
@@ -360,6 +408,14 @@ public class MainActivity extends AppCompatActivity {
     public void onPlayButtonClick(View v) {
 
     }
+
+    private void showInterstitial() {
+        if (mInterstitialAd.isLoaded()) {
+            mInterstitialAd.show();
+        }
+    }
+
+
 
 
 }

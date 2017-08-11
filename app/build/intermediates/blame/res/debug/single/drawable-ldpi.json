@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
-        "source": "/Users/md.tanvirsaad/Android-Sound-Booster-pro/app/src/main/res/drawable-ldpi/ic_launcher.png"
+        "merged": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/res/merged/debug/drawable-ldpi/icons.png",
+        "source": "/Users/Saad/Downloads/android_simple_eq/app/src/main/res/drawable-ldpi/icons.png"
+    },
+    {
+        "merged": "/Users/Saad/Downloads/android_simple_eq/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/Users/Saad/Downloads/android_simple_eq/app/src/main/res/drawable-ldpi/ic_launcher.png"
     }
 ]
