@@ -4,7 +4,7 @@ android {
     compileSdkVersion 23
     buildToolsVersion "26.0.0"
     defaultConfig {
-        applicationId "com.kevinboone.android_simple_eq"
+        applicationId "volume.sound.booster"
         minSdkVersion 14
         targetSdkVersion 17
     }

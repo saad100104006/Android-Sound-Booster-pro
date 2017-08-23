@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.kevinboone.android_simple_eq.test" >
+    package="volume.sound.booster.test" >
 
     <uses-sdk
         android:minSdkVersion="14"
@@ -10,8 +10,8 @@
         android:name="android.test.InstrumentationTestRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.kevinboone.android_simple_eq"
-        android:targetPackage="com.kevinboone.android_simple_eq" />
+        android:label="Tests for volume.sound.booster"
+        android:targetPackage="volume.sound.booster" />
 
     <application>
         <uses-library android:name="android.test.runner" />

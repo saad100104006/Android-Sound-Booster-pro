@@ -16,7 +16,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/tigerCementLogo"
         android:layout_gravity="center"
-        android:background="@drawable/ddd"
+        android:background="@drawable/splash"
         />
 
 

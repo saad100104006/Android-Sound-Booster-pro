@@ -2,7 +2,7 @@
 manifest
 ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:2:1-37:12
 	package
-		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:3:7-47
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:3:7-37
 		INJECTED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -53,7 +53,7 @@ MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/Saad/Do
 		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:14:9-39
 	android:theme
 		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:16:9-52
-activity#com.soundbooster.pro.StartActivity
+activity#volume.sound.booster.StartActivity
 ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:17:9-23:20
 	android:label
 		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:18:13-45
@@ -69,20 +69,20 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:21:17-77
 	android:name
 		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:21:27-74
-activity#com.soundbooster.pro.MainActivity
+activity#volume.sound.booster.MainActivity
 ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:24:9-27:20
 	android:label
 		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:25:19-51
 	android:name
 		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:24:19-67
-service#com.soundbooster.pro.VolumeBoosterService
+service#volume.sound.booster.SoundBoosterService
 ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:28:9-32:19
 	android:enabled
-		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:28:75-97
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:28:74-96
 	android:exported
-		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:28:98-122
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:28:97-121
 	android:name
-		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:28:18-74
+		ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:28:18-73
 intent-filter#com.kevinboone.android_simple_eq.VolumeBoosterService.SERVICE
 ADDED from /Users/Saad/Downloads/android_simple_eq/app/src/main/AndroidManifest.xml:29:13-31:29
 action#com.kevinboone.android_simple_eq.VolumeBoosterService.SERVICE
